@@ -297,3 +297,5 @@ where ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8b16e2bdaefee9
 [JumpSearch-image]: https://i1.wp.com/theoryofprogramming.com/wp-content/uploads/2016/11/jump-search-1.jpg "Jump Search"
 
 [QuickSelect-image]: https://upload.wikimedia.org/wikipedia/commons/0/04/Selecting_quickselect_frames.gif "Quick Select"
+
+---
